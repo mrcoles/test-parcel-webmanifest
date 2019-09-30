@@ -1,0 +1,10 @@
+{
+  "name": "Test Webmanifest",
+  "icons": [
+    {
+      "src": "test-webmanifest.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
